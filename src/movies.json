@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Avatar",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Avatar-Teaser-Poster.jpg/220px-Avatar-Teaser-Poster.jpg",
+    "rating": 8.5,
+    "summary": "Jake, who is paraplegic, replaces his twin on the Na'vi inhabited Pandora for a corporate mission.",
+    "trailer": "https://www.youtube.com/watch?v=5PSNL1qE6VY"
+  },
+  {
+    "id": 2,
+    "name": "Spider-Man: No Way Home",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDEyN2NhMjgtMjdhNi00MmNlLWE5YTgtZGE4MzNjMTRlMGEwXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_FMjpg_UX1000_.jpg",
+    "rating": 8.9,
+    "summary": "Peter Parker seeks Doctor Strange's help to make the world forget he is Spider-Man.",
+    "trailer": "https://www.youtube.com/watch?v=JfVOs4VSpmA"
+  },
+  {
+    "id": 3,
+    "name": "Avengers: Endgame",
+    "poster": "https://lumiere-a.akamaihd.net/v1/images/p_avengersendgame_19751_e14a0104.jpeg?region=0%2C0%2C540%2C810",
+    "rating": 8.8,
+    "summary": "The Avengers assemble once more to reverse Thanos's actions and restore balance.",
+    "trailer": "https://www.youtube.com/watch?v=TcMBFSGVi1c"
+  },
+  {
+    "id": 4,
+    "name": "K.G.F Chapter 2",
+    "poster": "https://wallpapercave.com/wp/wp4019377.jpg",
+    "rating": 8.6,
+    "summary": "Rocky faces new challenges and enemies to establish his supremacy in the gold mafia.",
+    "trailer": "https://www.youtube.com/watch?v=0S2S0d0kWNY"
+  },
+  {
+    "id": 5,
+    "name": "Inception",
+    "poster": "https://m.media-amazon.com/images/I/51v5ZpFyaFL._AC_.jpg",
+    "rating": 8.8,
+    "summary": "A thief steals corporate secrets through dream-sharing technology but is haunted by his past.",
+    "trailer": "https://www.youtube.com/watch?v=YoHD9XEInc0"
+  },
+  {
+    "id": 6,
+    "name": "Interstellar",
+    "poster": "https://m.media-amazon.com/images/I/91kFYg4fX3L._AC_SL1500_.jpg",
+    "rating": 8.6,
+    "summary": "Explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    "trailer": "https://www.youtube.com/watch?v=zSWdZVtXT7E"
+  },
+  {
+    "id": 7,
+    "name": "The Dark Knight",
+    "poster": "https://m.media-amazon.com/images/I/71pVHJAI3qL._AC_SL1181_.jpg",
+    "rating": 9.0,
+    "summary": "Batman faces the Joker, who threatens Gotham's peace and morality.",
+    "trailer": "https://www.youtube.com/watch?v=EXeTwQWrcwY"
+  },
+  {
+    "id": 8,
+    "name": "Joker",
+    "poster": "https://m.media-amazon.com/images/I/71qJ8ZycbsL._AC_SL1181_.jpg",
+    "rating": 8.4,
+    "summary": "Arthur Fleck, a failed comedian, descends into insanity and becomes the criminal mastermind known as the Joker.",
+    "trailer": "https://www.youtube.com/watch?v=zAGVQLHvwOY"
+  },
+  {
+    "id": 9,
+    "name": "The Matrix",
+    "poster": "https://m.media-amazon.com/images/I/51EG732BV3L.jpg",
+    "rating": 8.7,
+    "summary": "A hacker discovers reality is a simulation and joins a rebellion against the machines.",
+    "trailer": "https://www.youtube.com/watch?v=vKQi3bBA1y8"
+  },
+  {
+    "id": 10,
+    "name": "Thor: Ragnarok",
+    "poster": "https://m.media-amazon.com/images/I/81vE1OgEiRL._AC_SY679_.jpg",
+    "rating": 7.9,
+    "summary": "Thor must escape the alien planet Sakaar to save Asgard from Hela and the apocalypse.",
+    "trailer": "https://www.youtube.com/watch?v=ue80QwXMRHg"
+  }
+]
