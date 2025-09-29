@@ -1,0 +1,85 @@
+body{
+  margin: 50px;
+  font-family: sans-serif;
+}
+.movie-list{
+  padding: 24px;
+  display: flex;
+  gap: 24px;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.movie-container{
+  width: 340px;
+}
+.movie-specs{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.movie-poster{
+  height: 500px;
+  width: 340px;
+  object-fit: cover;
+  background-color: teal;
+}
+.movie-rating{
+  font-size: 18px;
+  font-size: 400;
+}
+.movie-name{
+  font-size: 24px;
+  margin: 0px;
+}
+.likes-dislikes{
+  font-size: 20px;
+}
+.counter-container{
+  display: flex;
+  gap: 10px;
+}
+.movie-show-button{
+  margin-bottom: 10px;
+}
+.add-movie-form{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.not-found{
+  text-align: center;
+  font-size: 56px;
+  margin: 0;
+}
+.movie-detail-container{
+  max-width: 50rem;
+}
+:root{
+  font-size: 16px;
+}
+.game-box{
+  height: 8rem;
+  width: 8rem;
+  color: black;
+  background-color: whitesmoke;
+  font-size: 8rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  border: 1px solid black;
+}
+.board{
+  display: grid;
+  grid-template-columns: repeat(3,8rem);
+  /* grid-template-columns: repeat(3,1fr); */
+  width: min-content;
+}
+.full-game{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+  justify-content: center;
+  gap: 1rem;
+}
