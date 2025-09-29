@@ -141,7 +141,7 @@ export function Welcome() {
           zIndex: 2,
         }}
       >
-        Welcome to MY App!
+        Welcome to Movie App!
       </Typography>
       <Typography
         variant="h5"
